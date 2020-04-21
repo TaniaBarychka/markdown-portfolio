@@ -11,3 +11,4 @@ Below is the list of my technical skills:
 - Foraging 
 - Madingley model
 - Bushmeat
+- **Ecological theory**
